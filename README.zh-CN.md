@@ -120,10 +120,16 @@ ArcaneSurvivor/
 
 ## 外部素材与致谢
 
-本项目使用了部分第三方资源，其中包括 **KayKit 骷髅角色模型**及部分音频、字体素材。**公开源码前必须检查对应许可是否允许再分发素材原文件。** 发布前应补充各项资源的准确名称、作者、来源链接、许可和必要署名。可分发的游戏 Build 与可公开的素材源码并不一定具有相同的许可条件。
+**角色模型与动画：** 本项目使用了 **Kay Lousberg** 制作的 [KayKit Adventurers](https://kaylousberg.itch.io/kaykit-adventurers)、[KayKit Skeletons](https://kaylousberg.itch.io/kaykit-skeletons) 和 [KayKit Character Animations](https://kaylousberg.itch.io/kaykit-character-animations)。上述素材采用 **CC0 1.0** 许可，感谢作者提供这些资源。
+
+**字体：** 游戏使用了 **Noto Sans JP**、**Noto Sans SC**，遵循 **SIL Open Font License 1.1（OFL）**。相应版权声明及完整许可文本见 [`LICENSES/NotoSansJP-OFL.txt`](LICENSES/NotoSansJP-OFL.txt) 和 [`LICENSES/NotoSansSC-OFL.txt`](LICENSES/NotoSansSC-OFL.txt)。TextMesh Pro 自带资源的许可和署名文件继续保留在 `Assets/TextMesh Pro/` 中。
+
+**音效：** 根据项目开发者确认，游戏音效均为 ArcaneSurvivor 专门制作，使用了 AI 辅助，并非取自第三方音效素材包。
+
+素材出处及许可证详情请参阅 [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md)。
 
 ## 关于本项目
 
 这是一个用于展示 **Unity/C# 游戏程序开发能力**的个人技术 Demo，重点包括自动攻击与魔法弹系统、强化组合、敌人状态管理、范围伤害、UI 本地化及 Windows 独立发布流程。
 
-*仓库目前仍为 Private。将源码仓库设为 Public 前，还需要确认第三方素材的再分发授权。*
+*第三方素材继续遵循各自的许可证，详情见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。*

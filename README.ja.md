@@ -120,10 +120,16 @@ ArcaneSurvivor/
 
 ## 外部素材とクレジット
 
-本作品では **KayKit のスケルトンキャラクター素材**など、外部のアセットや音声・フォントを使用しています。**ソースファイルを公開する前に、各ライセンスで再配布が許可されているか確認する必要があります。** 公開時には素材名・作者・配布元URL・ライセンス・必要なクレジットを記載します。ゲームの実行形式と素材ファイルの再配布では、適用条件が異なる場合があります。
+**3Dモデル・アニメーション：** **Kay Lousberg** 氏による [KayKit Adventurers](https://kaylousberg.itch.io/kaykit-adventurers)、[KayKit Skeletons](https://kaylousberg.itch.io/kaykit-skeletons)、[KayKit Character Animations](https://kaylousberg.itch.io/kaykit-character-animations) を使用しています。これらの素材は **CC0 1.0** ライセンスで公開されています。素材の提供に感謝します。
+
+**フォント：** **Noto Sans JP** と **Noto Sans SC** を **SIL Open Font License 1.1（OFL）** に基づいて使用しています。著作権表示とライセンス全文は [`LICENSES/NotoSansJP-OFL.txt`](LICENSES/NotoSansJP-OFL.txt) と [`LICENSES/NotoSansSC-OFL.txt`](LICENSES/NotoSansSC-OFL.txt) を参照してください。TextMesh Pro に付属するサンプルフォント・スプライトのライセンス／クレジットファイルも `Assets/TextMesh Pro/` 内に保持しています。
+
+**効果音：** 開発者の確認によると、本作の効果音は第三者の音源パックから取得したものではなく、ArcaneSurvivor 用に AI の支援を受けて制作したものです。
+
+素材の出典とライセンスの詳細は [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) にまとめています。
 
 ## 開発目的
 
 Unity/C#による**個人制作のゲームプログラミング作品**として、魔法弾と強化の組み合わせ、敵の状態異常、範囲エフェクト、多言語UI、Windows版のビルドまで、一連の実装を示すことを目的としています。
 
-*現在リポジトリはPrivateです。ソースコードを一般公開する前に、外部アセットの再配布ライセンスを確認してください。*
+*外部素材にはそれぞれのライセンスが適用されます。詳細は [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) を参照してください。*

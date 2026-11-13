@@ -120,10 +120,16 @@ The screenshots are captured from the playable Windows build.
 
 ## Third-party assets and credits
 
-This project uses external resources, including **KayKit skeleton character assets** and certain audio/font resources. **Do not publish their source files without verifying redistribution permissions.** Add the exact asset names, authors, source URLs, license terms and required notices before making the source repository public. A playable build and public source distribution can have different licensing conditions.
+**3D models and animations.** The project uses [KayKit Adventurers](https://kaylousberg.itch.io/kaykit-adventurers), [KayKit Skeletons](https://kaylousberg.itch.io/kaykit-skeletons), and [KayKit Character Animations](https://kaylousberg.itch.io/kaykit-character-animations) by **Kay Lousberg**. These packs are available under **CC0 1.0**. Thanks to the creator for making these assets available.
+
+**Fonts.** The bundled **Noto Sans JP** and **Noto Sans SC** fonts are used under the **SIL Open Font License 1.1**. Their copyright notices and complete license terms are included in [`LICENSES/NotoSansJP-OFL.txt`](LICENSES/NotoSansJP-OFL.txt) and [`LICENSES/NotoSansSC-OFL.txt`](LICENSES/NotoSansSC-OFL.txt). Existing TextMesh Pro sample-font and sprite attribution files remain in `Assets/TextMesh Pro/`.
+
+**Sound effects.** The game's sound effects were created specifically for ArcaneSurvivor with AI assistance rather than taken from third-party audio packs, as confirmed by the project creator.
+
+See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for asset sources and license information.
 
 ## About the project
 
 This is a **solo gameplay-programming prototype** created to demonstrate Unity/C# combat systems, projectile and status-effect interactions, UI localization, and delivery of a playable Windows build.
 
-*The repository is currently private. Check third-party asset redistribution licenses before making the source repository public.*
+*Third-party assets retain their respective licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).*
