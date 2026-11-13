@@ -80,6 +80,7 @@ ArcaneSurvivor/
 ├── Assets/               # 脚本、场景、Prefab、美术、UI、音频及 .meta 文件
 ├── Packages/             # Unity 包配置
 ├── ProjectSettings/      # Unity 项目设置
+├── docs/media/           # 七张游戏实机截图
 ├── README.md             # English
 ├── README.zh-CN.md       # 简体中文
 ├── README.ja.md          # 日本語
@@ -91,7 +92,25 @@ ArcaneSurvivor/
 
 ## 游戏截图与演示视频
 
-作品集正式发布前，将补充游戏截图和简短的玩法演示视频。
+## 游戏截图与演示视频
+
+### 主菜单与语言切换
+
+![ArcaneSurvivor 英文主菜单，包含中英日三种语言选项](docs/media/01_title_en.png)
+
+### 实机战斗与强化选择
+
+| 实机战斗与冰蓝色冻结领域 | 三选一强化界面 |
+| --- | --- |
+| ![Lv.4 战斗画面，包含敌人、魔法弹和冻结领域](docs/media/02_gameplay.png) | ![Lv.5 强化三选一：持续伤害区域、连锁伤害和核能伤害](docs/media/03_upgrade.png) |
+
+### 连锁闪电与结算
+
+| 连锁伤害效果 | 本局完成结算 |
+| --- | --- |
+| ![蓝紫色闪电连接附近敌人](docs/media/04_chain.png) | ![Run Complete 结算界面，展示等级、击杀数和生存时间](docs/media/05_result.png) |
+
+截图均来自可以独立运行的 Windows Demo。短版实机演示视频尚在制作，完成后会补充链接。
 
 ## 外部素材与致谢
 
@@ -101,4 +120,4 @@ ArcaneSurvivor/
 
 这是一个用于展示 **Unity/C# 游戏程序开发能力**的个人技术 Demo，重点包括自动攻击与魔法弹系统、强化组合、敌人状态管理、范围伤害、UI 本地化及 Windows 独立发布流程。
 
-*本仓库说明用于作品集准备。公开发布前会完善素材署名、截图及 Release 下载链接。*
+*本仓库说明仍在完善。正式公开之前还需确认素材授权，并补充演示视频及 Release 下载链接。*

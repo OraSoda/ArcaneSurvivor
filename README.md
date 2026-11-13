@@ -80,6 +80,7 @@ ArcaneSurvivor/
 ├── Assets/               # Scripts, scenes, prefabs, art, UI, audio, .meta files
 ├── Packages/             # Unity package manifest and lockfile
 ├── ProjectSettings/      # Unity project settings
+├── docs/media/           # Seven captured gameplay screenshots
 ├── README.md             # English
 ├── README.zh-CN.md       # 简体中文
 ├── README.ja.md          # 日本語
@@ -91,7 +92,25 @@ Generated folders such as `Library/`, `Temp/`, `Logs/`, and Windows build binari
 
 ## Screenshots and demonstration
 
-Gameplay screenshots and a short demonstration video will be added before the portfolio is published.
+## Screenshots
+
+### Main menu
+
+![ArcaneSurvivor English main menu with language selection](docs/media/01_title_en.png)
+
+### Gameplay and upgrade system
+
+| Combat and ice-blue freeze areas | Three-choice upgrade selection |
+| --- | --- |
+| ![Level 4 gameplay with enemies, projectiles and freeze areas](docs/media/02_gameplay.png) | ![Level 5 upgrade choices: Damage Zone, Chain Damage and Nuclear Damage](docs/media/03_upgrade.png) |
+
+### Chain lightning and run results
+
+| Chain Damage in combat | Run Complete screen |
+| --- | --- |
+| ![Blue-violet chain lightning connecting nearby enemies](docs/media/04_chain.png) | ![Run Complete results screen with level, kills and survival time](docs/media/05_result.png) |
+
+The screenshots are captured from the playable Windows build. A short gameplay showcase video is planned; a link will be added when it is ready.
 
 ## Third-party assets and credits
 
@@ -101,4 +120,4 @@ This project uses external resources, including **KayKit skeleton character asse
 
 This is a **solo gameplay-programming prototype** created to demonstrate Unity/C# combat systems, projectile and status-effect interactions, UI localization, and delivery of a playable Windows build.
 
-*Documentation prepared for portfolio use. Final asset credits, screenshots and a Release download link will be supplied before public launch.*
+*Portfolio documentation in progress. Asset-license verification, a gameplay video and a Release download link remain before the public launch.*
