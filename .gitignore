@@ -1,0 +1,57 @@
+# Unity project generated data
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.log
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS and crash files
+.DS_Store
+Thumbs.db
+sysinfo.txt
+mono_crash.*
+
+# Unity generated / temporary artifacts
+/[Aa]ssets/[Ss]ceneDependencyCache*
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+/[Aa]ssets/Addressables_Temp/
+/[Aa]ssets/Addressables_Temp.meta
+/[Aa]ssets/StreamingAssets/aa/
+/[Aa]ssets/StreamingAssets/aa.meta
+/ServerData/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
+
+# Distributable binaries: attach ZIP to GitHub Releases instead
+/*.zip
+/*.exe
+/*.dll
+/*.app
+/*.apk
+/*.aab
+
+# Unity .meta files under Assets MUST be kept.
+# Based on: https://github.com/github/gitignore/blob/main/Unity.gitignore
