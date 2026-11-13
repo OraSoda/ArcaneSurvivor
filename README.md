@@ -62,7 +62,7 @@ The player chooses one upgrade at each selection level. **Only direct projectile
 
 ## Download and run
 
-The playable Windows demo **v0.1.0** has been released: **[Download from GitHub Releases](https://github.com/OraSoda/ArcaneSurvivor/releases/tag/v0.1.0)**. The repository is currently private, so downloads require repository access.
+The playable Windows demo **v0.1.0** has been released: **[Download from GitHub Releases](https://github.com/OraSoda/ArcaneSurvivor/releases/tag/v0.1.0)**.
 
 Download `ArcaneSurvivor_v0.1.0_Windows_x64.zip`, extract **all files** into the same directory, and run `ArcaneSurvivor.exe`. Do not run or distribute the `.exe` alone without its `_Data` folder and other Unity runtime files.
 
@@ -84,7 +84,6 @@ ArcaneSurvivor/
 ├── README.md             # English
 ├── README.zh-CN.md       # 简体中文
 ├── README.ja.md          # 日本語
-├── PORTFOLIO_CHECKLIST.md
 └── .gitignore
 ```
 

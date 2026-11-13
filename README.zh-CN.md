@@ -62,7 +62,7 @@
 
 ## 下载与运行
 
-Windows Demo 已完成独立运行测试，并发布了 **v0.1.0** 版本：**[前往 GitHub Releases 下载](https://github.com/OraSoda/ArcaneSurvivor/releases/tag/v0.1.0)**。仓库目前是 Private，仅有仓库访问权限的用户可以下载。
+Windows Demo 已完成独立运行测试，并发布了 **v0.1.0** 版本：**[前往 GitHub Releases 下载](https://github.com/OraSoda/ArcaneSurvivor/releases/tag/v0.1.0)**。
 
 下载 `ArcaneSurvivor_v0.1.0_Windows_x64.zip` 后，需解压**全部文件**，运行 `ArcaneSurvivor.exe`；不能只保留 `.exe` 而删除 `_Data` 等运行文件。
 
@@ -84,7 +84,6 @@ ArcaneSurvivor/
 ├── README.md             # English
 ├── README.zh-CN.md       # 简体中文
 ├── README.ja.md          # 日本語
-├── PORTFOLIO_CHECKLIST.md
 └── .gitignore
 ```
 

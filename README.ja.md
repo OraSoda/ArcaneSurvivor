@@ -62,7 +62,7 @@
 
 ## ダウンロード・起動方法
 
-Windows版デモは**ローカル環境での単独起動を確認済み**で、**v0.1.0** を公開済みです：**[GitHub Releasesからダウンロード](https://github.com/OraSoda/ArcaneSurvivor/releases/tag/v0.1.0)**。現在リポジトリはPrivateのため、ダウンロードにはアクセス権が必要です。
+Windows版デモは**ローカル環境での単独起動を確認済み**で、**v0.1.0** を公開済みです：**[GitHub Releasesからダウンロード](https://github.com/OraSoda/ArcaneSurvivor/releases/tag/v0.1.0)**。
 
 `ArcaneSurvivor_v0.1.0_Windows_x64.zip` をダウンロードし、**すべてのファイルを同じフォルダーに展開**して `ArcaneSurvivor.exe` を起動してください。`.exe` のみではなく、`_Data` フォルダーなどのUnity実行ファイルも必要です。
 
@@ -84,7 +84,6 @@ ArcaneSurvivor/
 ├── README.md             # English
 ├── README.zh-CN.md       # 简体中文
 ├── README.ja.md          # 日本語
-├── PORTFOLIO_CHECKLIST.md
 └── .gitignore
 ```
 
