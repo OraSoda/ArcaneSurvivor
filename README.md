@@ -62,9 +62,9 @@ The player chooses one upgrade at each selection level. **Only direct projectile
 
 ## Download and run
 
-The Windows build has been **tested locally**, but a public release link has **not been published yet**.
+The playable Windows demo **v0.1.0** has been released: **[Download from GitHub Releases](https://github.com/OraSoda/ArcaneSurvivor/releases/tag/v0.1.0)**. The repository is currently private, so downloads require repository access.
 
-When a build is attached to GitHub **Releases**, download its ZIP, extract **all files** into the same directory, and run `ArcaneSurvivor.exe`. Do not run or distribute the `.exe` alone without its `_Data` folder and other Unity runtime files.
+Download `ArcaneSurvivor_v0.1.0_Windows_x64.zip`, extract **all files** into the same directory, and run `ArcaneSurvivor.exe`. Do not run or distribute the `.exe` alone without its `_Data` folder and other Unity runtime files.
 
 ### Open the source project in Unity
 
@@ -90,7 +90,13 @@ ArcaneSurvivor/
 
 Generated folders such as `Library/`, `Temp/`, `Logs/`, and Windows build binaries are excluded from the source repository.
 
-## Screenshots and demonstration
+## Gameplay showcase
+
+Watch the 44-second gameplay and technical showcase:
+
+[![Watch ArcaneSurvivor Gameplay Showcase](docs/media/02_gameplay.png)](https://youtu.be/IxcpyEohAj0)
+
+**[Watch on YouTube](https://youtu.be/IxcpyEohAj0)**
 
 ## Screenshots
 
@@ -110,7 +116,7 @@ Generated folders such as `Library/`, `Temp/`, `Logs/`, and Windows build binari
 | --- | --- |
 | ![Blue-violet chain lightning connecting nearby enemies](docs/media/04_chain.png) | ![Run Complete results screen with level, kills and survival time](docs/media/05_result.png) |
 
-The screenshots are captured from the playable Windows build. A short gameplay showcase video is planned; a link will be added when it is ready.
+The screenshots are captured from the playable Windows build.
 
 ## Third-party assets and credits
 
@@ -120,4 +126,4 @@ This project uses external resources, including **KayKit skeleton character asse
 
 This is a **solo gameplay-programming prototype** created to demonstrate Unity/C# combat systems, projectile and status-effect interactions, UI localization, and delivery of a playable Windows build.
 
-*Portfolio documentation in progress. Asset-license verification, a gameplay video and a Release download link remain before the public launch.*
+*The repository is currently private. Check third-party asset redistribution licenses before making the source repository public.*

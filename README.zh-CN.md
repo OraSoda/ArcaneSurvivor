@@ -62,9 +62,9 @@
 
 ## 下载与运行
 
-Windows Demo 已经在本地完成独立运行测试，**目前尚未发布公开下载链接**。
+Windows Demo 已完成独立运行测试，并发布了 **v0.1.0** 版本：**[前往 GitHub Releases 下载](https://github.com/OraSoda/ArcaneSurvivor/releases/tag/v0.1.0)**。仓库目前是 Private，仅有仓库访问权限的用户可以下载。
 
-之后将通过 GitHub **Releases** 提供 Windows ZIP。下载后需解压**完整文件夹**，运行 `ArcaneSurvivor.exe`；不能只保留 `.exe` 而删除 `_Data` 等运行文件。
+下载 `ArcaneSurvivor_v0.1.0_Windows_x64.zip` 后，需解压**全部文件**，运行 `ArcaneSurvivor.exe`；不能只保留 `.exe` 而删除 `_Data` 等运行文件。
 
 ### 从源码启动 Unity 项目
 
@@ -90,9 +90,15 @@ ArcaneSurvivor/
 
 `Library/`、`Temp/`、`Logs/` 和 Windows 打包产物等生成文件不进入源码仓库。
 
-## 游戏截图与演示视频
+## 游戏演示视频
 
-## 游戏截图与演示视频
+观看约 44 秒的实机演示，了解战斗玩法、升级系统、不同技能组合与通关流程。
+
+[![观看 ArcaneSurvivor 游戏演示](docs/media/02_gameplay.png)](https://youtu.be/IxcpyEohAj0)
+
+**[在 YouTube 观看](https://youtu.be/IxcpyEohAj0)**
+
+## 游戏截图
 
 ### 主菜单与语言切换
 
@@ -110,7 +116,7 @@ ArcaneSurvivor/
 | --- | --- |
 | ![蓝紫色闪电连接附近敌人](docs/media/04_chain.png) | ![Run Complete 结算界面，展示等级、击杀数和生存时间](docs/media/05_result.png) |
 
-截图均来自可以独立运行的 Windows Demo。短版实机演示视频尚在制作，完成后会补充链接。
+截图均来自可以独立运行的 Windows Demo。
 
 ## 外部素材与致谢
 
@@ -120,4 +126,4 @@ ArcaneSurvivor/
 
 这是一个用于展示 **Unity/C# 游戏程序开发能力**的个人技术 Demo，重点包括自动攻击与魔法弹系统、强化组合、敌人状态管理、范围伤害、UI 本地化及 Windows 独立发布流程。
 
-*本仓库说明仍在完善。正式公开之前还需确认素材授权，并补充演示视频及 Release 下载链接。*
+*仓库目前仍为 Private。将源码仓库设为 Public 前，还需要确认第三方素材的再分发授权。*
